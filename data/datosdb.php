@@ -1,10 +1,10 @@
 <?php
 
 
-$server = "localhost";
-$dbname = "aplicacionregistro";
-$user = "admingastos";
-$password = "hola";
+$server = "";
+$dbname = "";
+$user = "";
+$password = "";
 
 
 ?>
